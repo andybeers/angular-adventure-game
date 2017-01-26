@@ -7,4 +7,7 @@ Correctly choose two out of three activities for your date to win!
 
 To play the game, run 'npm start', or run index.html in the build directory in live-server.
 
-
+Created by:
+Andy Beers
+Caitlin Araldi
+David Chase
